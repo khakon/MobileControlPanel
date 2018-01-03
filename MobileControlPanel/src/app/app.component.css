@@ -1,0 +1,21 @@
+.nav {
+  padding-left: 0;
+  list-style: none;
+  float:right;
+}
+
+.navbar li > a {
+  color: #fff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.navbar li {
+  display: block;
+  position: relative;
+  box-sizing: border-box;
+  float:left;
+}
+.dx-field-value:not(.dx-switch):not(.dx-checkbox):not(.dx-button), .dx-field-value-static {
+  width: 50%;
+}

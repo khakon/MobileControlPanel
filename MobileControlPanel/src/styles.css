@@ -1,0 +1,3 @@
+.dx-field-value:not(.dx-switch):not(.dx-checkbox):not(.dx-button), .dx-field-value-static {
+  width: 50%;
+}

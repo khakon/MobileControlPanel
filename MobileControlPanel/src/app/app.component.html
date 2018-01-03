@@ -1,0 +1,98 @@
+<div class="wrapper" style="height: auto; min-height: 100%;">
+
+  <header class="main-header">
+    <!-- Logo -->
+    <a href="index.html" class="logo">
+      <!-- mini logo for sidebar mini 50x50 pixels -->
+      <span class="logo-mini"><b>A</b>LT</span>
+      <!-- logo for regular state and mobile devices -->
+      <span class="logo-lg"><b>Союз</b></span>
+    </a>
+    <!-- Header Navbar: style can be found in header.less -->
+    <nav class="navbar navbar-static-top">
+      <div>
+        <ul class="nav">
+          <li>
+            <a href="#" (click)="upLoad()"><i class="fa fa-refresh"></i></a>
+          </li>
+          <li>
+            <a href="#" (click)="upDate()"><i class="fa fa-gears"></i></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+  <!-- Left side column. contains the logo and sidebar -->
+  <aside class="main-sidebar">
+    <!-- sidebar: style can be found in sidebar.less -->
+    <section class="sidebar" style="height: auto;">
+      <!-- Sidebar user panel -->
+      <div class="user-panel">
+      </div>
+      <!-- sidebar menu: : style can be found in sidebar.less -->
+      <ul class="sidebar-menu tree" data-widget="tree">
+        <li class="header">Навигация</li>
+        <li><a [routerLink]="['']"><i class="fa fa-book"></i> <span>Мониторинг</span></a></li>
+        <li><a [routerLink]="['orders']"><i class="fa fa-book"></i> <span>Заказы</span></a></li>
+        <li><a [routerLink]="['payments']"><i class="fa fa-book"></i> <span>Оплаты</span></a></li>
+        <li><a [routerLink]="['logOrders']"><i class="fa fa-book"></i> <span>Лог заказов</span></a></li>
+        <li><a [routerLink]="['logPayments']"><i class="fa fa-book"></i> <span>Лог оплат</span></a></li>
+      </ul>
+    </section>
+    <!-- /.sidebar -->
+  </aside>
+  <div class="content-wrapper">
+    <router-outlet></router-outlet>
+  </div>
+</div>
+<dx-popup class="popup"
+          [width]="400"
+          [height]="200"
+          [showTitle]="true"
+          title="Обновление справочников"
+          [dragEnabled]="false"
+          [closeOnOutsideClick]="true"
+          [(visible)]="popupVisibleUpdate">
+  <div *dxTemplate="let data of 'content'">
+    <div class="dx-fieldset">
+      <div class="dx-field">
+        <div class="dx-field-value">
+          <dx-button [text]="cancelUpdateButtonOptions.text" [type]="cancelUpdateButtonOptions.type" (onClick)="cancelUpdateButtonOptions.onClick()"></dx-button>
+        </div>
+        <div class="dx-field-value">
+          <dx-button [text]="updateButtonOptions.text" [type]="updateButtonOptions.type" (onClick)="updateButtonOptions.onClick()"></dx-button>
+        </div>
+      </div>
+    </div>
+  </div>
+</dx-popup>
+<dx-popup class="popup"
+          [width]="400"
+          [height]="200"
+          [showTitle]="true"
+          title="Выгрузка документов"
+          [dragEnabled]="false"
+          [closeOnOutsideClick]="true"
+          [(visible)]="popupVisibleUpload">
+  <div *dxTemplate="let data of 'content'">
+    <div class="dx-fieldset">
+      <div class="dx-field">
+        <div class="dx-field-value">
+          <dx-button [text]="cancelUploadButtonOptions.text" [type]="cancelUploadButtonOptions.type" (onClick)="cancelUploadButtonOptions.onClick()"></dx-button>
+        </div>
+        <div class="dx-field-value">
+          <dx-button [text]="uploadButtonOptions.text" [type]="uploadButtonOptions.type" (onClick)="uploadButtonOptions.onClick()"></dx-button>
+        </div>
+      </div>
+    </div>
+  </div>
+</dx-popup>
+<dx-load-panel #loadPanel
+               shadingColor="rgba(0,0,0,0.4)"
+               [(visible)]="loadingVisible"
+               [showIndicator]="true"
+               [showPane]="true"
+               [shading]="true"
+               [closeOnOutsideClick]="true">
+</dx-load-panel>
+

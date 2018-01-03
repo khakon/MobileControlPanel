@@ -1,0 +1,9 @@
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\Helpers\bin\Debug\netcoreapp2.0\Helpers.deps.json
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\Helpers\bin\Debug\netcoreapp2.0\Helpers.dll
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\Helpers\obj\Debug\netcoreapp2.0\Helpers.csprojResolveAssemblyReference.cache
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\Helpers\obj\Debug\netcoreapp2.0\Helpers.csproj.CoreCompileInputs.cache
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\Helpers\obj\Debug\netcoreapp2.0\Helpers.AssemblyInfoInputs.cache
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\Helpers\obj\Debug\netcoreapp2.0\Helpers.AssemblyInfo.cs
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\Helpers\bin\Debug\netcoreapp2.0\Helpers.pdb
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\Helpers\obj\Debug\netcoreapp2.0\Helpers.dll
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\Helpers\obj\Debug\netcoreapp2.0\Helpers.pdb

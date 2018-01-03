@@ -1,0 +1,9 @@
+D:\Users\V.Khakonov\documents\visual studio 2017\Projects\MobileControlPanel\OrdersRepository\bin\Debug\netcoreapp2.0\OrdersRepository.deps.json
+D:\Users\V.Khakonov\documents\visual studio 2017\Projects\MobileControlPanel\OrdersRepository\bin\Debug\netcoreapp2.0\OrdersRepository.dll
+D:\Users\V.Khakonov\documents\visual studio 2017\Projects\MobileControlPanel\OrdersRepository\obj\Debug\netcoreapp2.0\OrdersRepository.csproj.CoreCompileInputs.cache
+D:\Users\V.Khakonov\documents\visual studio 2017\Projects\MobileControlPanel\OrdersRepository\obj\Debug\netcoreapp2.0\OrdersRepository.AssemblyInfoInputs.cache
+D:\Users\V.Khakonov\documents\visual studio 2017\Projects\MobileControlPanel\OrdersRepository\obj\Debug\netcoreapp2.0\OrdersRepository.AssemblyInfo.cs
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\OrdersRepository\bin\Debug\netcoreapp2.0\OrdersRepository.pdb
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\OrdersRepository\obj\Debug\netcoreapp2.0\OrdersRepository.dll
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\OrdersRepository\obj\Debug\netcoreapp2.0\OrdersRepository.pdb
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\OrdersRepository\obj\Debug\netcoreapp2.0\OrdersRepository.csprojResolveAssemblyReference.cache

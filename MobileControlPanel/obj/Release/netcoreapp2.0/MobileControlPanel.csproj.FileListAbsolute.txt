@@ -1,0 +1,15 @@
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\bin\Release\netcoreapp2.0\MobileControlPanel.deps.json
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\bin\Release\netcoreapp2.0\MobileControlPanel.runtimeconfig.json
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\bin\Release\netcoreapp2.0\MobileControlPanel.runtimeconfig.dev.json
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\bin\Release\netcoreapp2.0\MobileControlPanel.dll
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\bin\Release\netcoreapp2.0\MobileControlPanel.pdb
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\bin\Release\netcoreapp2.0\OrdersRepository.dll
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\bin\Release\netcoreapp2.0\OrdersRepository.pdb
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\obj\Release\netcoreapp2.0\MobileControlPanel.csprojResolveAssemblyReference.cache
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\obj\Release\netcoreapp2.0\MobileControlPanel.csproj.CoreCompileInputs.cache
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\obj\Release\netcoreapp2.0\MobileControlPanel.AssemblyInfoInputs.cache
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\obj\Release\netcoreapp2.0\MobileControlPanel.AssemblyInfo.cs
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\obj\Release\netcoreapp2.0\MobileControlPanel.dll
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\obj\Release\netcoreapp2.0\MobileControlPanel.pdb
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\bin\Release\netcoreapp2.0\Helpers.dll
+D:\Users\V.Khakonov\Documents\Visual Studio 2017\Projects\MobileControlPanel\MobileControlPanel\bin\Release\netcoreapp2.0\Helpers.pdb
